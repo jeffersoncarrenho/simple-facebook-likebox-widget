@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Simple Facebook Like Box Widget
-Plugin URI:  https://github.com/jeffersoncarrenho
+Plugin URI:  https://github.com/jeffersoncarrenho/simple-facebook-likebox-widget
 Description: Simple Facebook Like Box Widget
 Version:     -2
 Author:      Jefferson Lima
