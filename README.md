@@ -1,4 +1,4 @@
-# simple-facebook-likebox-widget
+# Simple Facebook Likebox Widget
 
 Contributors: jeffersoncarrenho
 
