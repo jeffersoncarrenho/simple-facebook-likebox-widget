@@ -36,10 +36,12 @@ No Questions for while
 ## == Screenshots ==
 
 1. Configuration Screen
+
 ![alt tag](https://raw.githubusercontent.com/jeffersoncarrenho/simple-facebook-likebox-widget/master/Configuration%20Screen.PNG)
 
 
 2. Displayed in site
+
 ![alt tag](https://raw.githubusercontent.com/jeffersoncarrenho/simple-facebook-likebox-widget/master/Displayed%20in%20Site.PNG)
 
 
