@@ -10,7 +10,7 @@ Tested up to: 3.4
 
 Stable tag: 4.3
 
-License: GPLv2 or later
+License: GPL2
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
